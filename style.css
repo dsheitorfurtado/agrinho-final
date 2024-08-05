@@ -1,0 +1,8 @@
+:root {
+    --cor-principal: #4c4bb6;
+    --cor-botoes: #0b3626;
+}
+
+body {
+    background-color: var(--cor-principal);
+}
